@@ -1,2 +1,3 @@
 Hello Git!
 Added from home computer
+Version A <- from the origin
