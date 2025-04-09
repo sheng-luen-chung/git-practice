@@ -1,2 +1,3 @@
 Hello Git!
 Added from home computer
+Version B <- 這是我 clone 端版本
